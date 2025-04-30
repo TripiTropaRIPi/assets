@@ -1,1 +1,11 @@
-placeholder
+placeholder.txt
+0x96E2d06cF60F6b384bBFDfd3c885189162001aE1.png
+{
+  "name": "Tripi Tropa",
+  "symbol": "TRIP",
+  "decimals": 18,
+  "description": "Мем-монета Tripi Tropa (полное имя Tripi Tropa Tropa RIPi). Создана ради фана, сообщества и хаоса на крипторынке.",
+  "website": "https://t.me/TripiTropaCoin",
+  "status": "active",
+  "id": "0x96E2d06cF60F6b384bBFDfd3c885189162001aE1"
+}
